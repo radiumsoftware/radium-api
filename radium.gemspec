@@ -2,8 +2,8 @@
 require File.expand_path('../lib/radium/version', __FILE__)
 
 Gem::Specification.new do |gem|
-  gem.authors       = ["twinturbo"]
-  gem.email         = ["me@broadcastingadam.com"]
+  gem.authors       = ["Adam Hawkins"]
+  gem.email         = ["adam@radiumcrm.com"]
   gem.description   = %q{Radium API client}
   gem.summary       = %q{}
   gem.homepage      = ""
